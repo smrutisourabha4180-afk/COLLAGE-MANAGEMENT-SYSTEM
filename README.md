@@ -70,3 +70,5 @@ Clean and modular code using separate functions
 Handles newline issues with fgets() and getchar() correctly
 
 Beginner-friendly and easy to extend
+
+![image alt](https://github.com/smrutisourabha4180-afk/COLLAGE-MANAGEMENT-SYSTEM/blob/c216505f4d9eb8bc9ec1024f3cd9434837ce61db/output%20image.jpg)
